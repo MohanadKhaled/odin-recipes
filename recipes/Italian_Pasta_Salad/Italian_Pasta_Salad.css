@@ -1,0 +1,65 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkred;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2{
+    font-size: 30px;
+    color: purple;
+    background-color: yellowgreen;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.one {
+    color: darkgray;
+    background-color: rgb(56, 49, 89);
+}
+
+.two {
+    color: lavenderblush;
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.p_one {
+    color: darkgoldenrod;
+    background-color: rgb(233, 150, 192);
+}
+
+#p_two {
+    color: mediumaquamarine;
+    background-color: dimgrey;
+}
+
+ul, ol {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+ul {
+    color: khaki;
+    background-color: firebrick;
+}
+
+ol {
+    color: indigo;
+    background-color: rgb(166, 194, 195);
+}
