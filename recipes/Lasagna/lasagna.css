@@ -9,4 +9,41 @@ img {
 
 h1 {
     color: blue;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    background-color: yellow;
+    color: red;
+}
+
+.one {
+    color: rgb(200, 25, 76);
+    background-color: rgba(84, 210, 30, 0.236);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.two {
+    color: rgb(23, 210, 166);
+    background-color: brown;
+    font-style: oblique;
+}
+
+#pele {
+    color: white;
+    background-color: rgb(0, 60, 255);
+    font-size: 24px;
+}
+
+.messi {
+    color: blue;
+    background-color: coral;
+    font-size: 24px;
 }
