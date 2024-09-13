@@ -3,6 +3,7 @@
 }
 
 h1 {
+    border: 3px solid blueviolet;
     color: blueviolet;
     font-size: 40px;
     background-color: rgb(169, 227, 183);
@@ -20,7 +21,9 @@ a {
 ul {
     list-style-type: none;
     text-align: center;
+    width: 60%;
     margin: 0 auto;
+    padding: 15px;
 }
 
 .one {
