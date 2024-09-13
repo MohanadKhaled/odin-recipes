@@ -17,6 +17,7 @@ h1 {
     text-align: center;
     margin: 30px auto;
     border-radius: 7px;
+    padding: 5px;
 }
 
 h2 {
@@ -29,6 +30,7 @@ h3 {
     padding: 5px;
     background-color: yellow;
     color: red;
+
 }
 
 .one {
@@ -55,5 +57,16 @@ h3 {
     color: blue;
     background-color: coral;
     font-size: 24px;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
     padding: 5px;
 }

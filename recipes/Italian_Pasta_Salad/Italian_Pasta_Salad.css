@@ -6,14 +6,22 @@ h1 {
     text-align: center;
     font-size: 40px;
     color: darkred;
+    background-color: lightgreen;
+    width: fit-content;
+    margin: 40px auto;
+    border-radius: 7px;
+    padding: 5px;
 }
 
 img {
+    display: block;
     height: auto;
-    width: 500px;
+    width: 35%;
+    margin: 40px auto;
 }
 
 h2{
+    padding: 5px;
     font-size: 30px;
     color: purple;
     background-color: yellowgreen;
@@ -21,6 +29,7 @@ h2{
 
 h3 {
     font-size: 30px;
+    padding: 5px;
 }
 
 .one {
@@ -37,6 +46,7 @@ p {
     font-size: 20px;
     font-style: italic;
     font-weight: bold;
+    padding: 5px;
 }
 
 .p_one {
@@ -57,6 +67,8 @@ ul, ol {
 ul {
     color: khaki;
     background-color: firebrick;
+    list-style-type: none;
+    padding: 10px;
 }
 
 ol {

@@ -3,19 +3,28 @@
 }
 
 h1 {
+    font-size: 45px;
     text-align: center;
     color: brown;
+    background-color: rgb(221, 221, 130);
+    width: fit-content;
+    margin: 40px auto;
+    border-radius: 7px;
+    padding: 5px;
 }
 
 img {
+    display: block;
     height: 300px;
-    width: auto;
+    width: 33%;
+    margin: 40px auto;
 }
 
 h2 {
     color: aquamarine;
     background-color: rgb(186, 62, 83);
     font-size: 40px;
+ padding: 5px;
 }
 
 .twenty {
@@ -23,6 +32,7 @@ h2 {
     background-color: rgb(35, 71, 71);
     font-size: 20px;
     font-style: italic;
+    padding: 5px;
 }
 
 #fourty {
@@ -30,22 +40,27 @@ h2 {
     background-color: cadetblue;
     font-size: 20px;
     font-style: italic;
+    padding: 5px;
 }
 
 h3 {
     font-size: 30px;
     color: cornflowerblue;
     background-color: rgb(180, 197, 83);
+    padding: 5px;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 24px;
     color: darksalmon;
     background-color: rgb(199, 229, 233);
     font-style: oblique;
+    list-style-type: none;
+    padding: 15px;
 }
 
 ol {
     color: violet;
     background-color: rgb(55, 55, 144);
+    font-size: 24px;
 }
